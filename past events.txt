@@ -1,0 +1,64 @@
+<main id="main">
+
+                   <div class="row">
+                    <div class="col-1-of-1">
+                          <h3 class="heading-tertiary u-margin-bottom-small red-text">TED</h3>
+                          <p class="paragraph">
+                            <p>TED is building a clearinghouse of free knowledge from the world's most inspired thinkers — and a community of curious souls to engage with ideas and each other, both online and at TED and TEDx events around the world, all year long.
+                              </p>
+                             <p> What started as a small idea grew out to change the world for the good. TED at its core believes that the stem of every great idea is an inspiration and TED tries to spark and ignite this inspiration by sharing heart touching, inspiring and motivational stories. Over the decades of inspiring budding minds, TED has achieved recognition throughout the world.
+                              </p> 
+                              
+                          </p>
+                        
+                          <h3 class="heading-tertiary u-margin-bottom-small red-text">TEDx</h3>
+                         <p class="paragraph">
+                           <p>The community voice of TED takes the form of TEDx where x represents “independently organised event” under the license of TED. 
+                            </p> 
+                            <p>TEDx events are organized by curious individuals who seek to discover ideas and spark conversations in their own community. It is a platform to reach more people at the community level. </p>
+                         </p>    
+                         <p>Each community has its heroes, people that are constantly yearning to create, explore, imagine new ideas. TEDx aims to bring these people together and give them a stage, so they can share their story, for other people to create their own and give something to the world.</p>          
+                    </div>
+
+                    <div class="col-1-of-1 ">
+                         <div>
+                                 <h3 class="heading-tertiary u-margin-bottom-small red-text "> TEDxShivajiCollege</h3>
+                                 <p class="paragraph ">
+                                   <p>Shivaji college takes another step to improving itself and growing to become more vibrant in creativity and excellence with initiatives by students under the guidance of professors who are there to support them on every step. As a learning opportunity, this event aims to create new thoughts and paths for the future of this nation. We hope to provoke the zeal and inspiration that will cause a change in our lives to excel and improve.
+
+                                    </p>
+                                      <p>Like last year, TEDxShivajiCollege aims to bring the best in the community, to their people and give them the spotlight they have earned to share their story with us. We strongly believe that the right change in the thinking can only be brought on by the growth of everyone together, learning from each other.</p>
+                                 </p>
+                         </div>     
+                     </div>
+                     <div class="col-1-of-1 ">
+                        <div>
+                                <h3 class="heading-tertiary u-margin-bottom-small red-text ">Shivaji College
+
+                                  </h3>
+                                <p class="paragraph ">
+                                  <p>Shivaji College is a premier institution in West Delhi, accredited with grade 'A' by NAAC. It was ranked as one of the top 10 science colleges of the country in a survey conducted by India Today in 2017.
+                                   </p>
+                                     <p>Shivaji College functions under the trusteeship of the Government of Delhi. In spite of being located in the thriving part of the city, Shivaji College campus is extremely verdurous. It has a maze of tall trees, lush green lawns and pruned hedges.
+
+                                      </p>
+                                      <p>Shivaji College believes in and promotes the ideals of gender equality and community service.</p>
+                                      <p>Shivaji College has come a long way from its humble beginnings and moderate facilities to a campus equipped with impressive amenities.</p>
+                        </div>     
+                    </div>
+                 </div>
+
+                     
+                            <!-- BAR -->
+
+
+                     <div class="timer" id="bar">
+                        <div class="container">
+                            <ul class="white-text">
+                              <li ><span class="white-text" >2</span >EVENTS</li>
+                              <li><span class="white-text">18</span>SPEAKERS</li>
+                              <li><span class="white-text">180+</span>AUDIENCE</li>
+                              <li><span class="white-text">5000+</span>VIEWS</li>
+                            </ul>
+                          </div>
+                     </div> 

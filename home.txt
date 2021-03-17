@@ -1,0 +1,115 @@
+<head>
+                
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <script 
+          src="https://code.jquery.com/jquery-3.4.1.min.js"
+          integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+          crossorigin="anonymous"></script>
+                <!-- Compiled and minified CSS -->
+            
+                
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"> 
+            <!-- Compiled and minified JavaScript -->
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+            <link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+        
+            <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+                <link rel="shortcut icon" href="./img/allrequiredpictures/tedxlogo2.jpg" type="image/x-icon">
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
+                <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+                <link rel="stylesheet" href="css/icon-font.css">
+                <link rel="stylesheet" href="scss/main.css">
+            
+            <link rel="stylesheet" href="C:\Users\Muskan\Desktop\ted\style.css">           
+            <link rel="stylesheet" href="C:\Users\Muskan\Desktop\ted\style2.css"> 
+
+                <script>
+                        document.addEventListener('DOMContentLoaded', function() {
+                  var elems = document.querySelectorAll('.sidenav');
+                  var instances = M.Sidenav.init(elems, options);
+                });
+              
+                // Or with jQuery
+              
+                $(document).ready(function(){
+                  $('.sidenav').sidenav();
+                });
+                         
+                      </script>
+                <title>TEDxSHIVAJI</title>
+                <style>
+                
+                
+                
+                
+                </style>
+            </head>
+
+            <body> <header class="header">
+                    
+                        <nav>
+                                <div class="nav-wrapper">
+                                  <a href="./index.html" class="brand-logo"><img src="C:\Users\Muskan\Desktop\ted\LOGO.png" width="400rem"></a>
+                                  <a href="#" data-target="mobile-demo" class="sidenav-trigger black"><i class="material-icons">menu</i></a>
+                                  <ul class="right hide-on-med-and-down">
+                                        <li><a href="C:\Users\Muskan\Desktop\home.html">HOME</a></li>
+                                        <li><a href="C:\Users\Muskan\Desktop\about.html" >ABOUT</a></li>
+                                        <li><a href="./speaker.html" target="_blank">SPEAKERS</a></li>
+                                        <li><a href="./sponsor.html" target="_blank">PARTNERS</a></li>
+                                        <li><a href="./team.html" target="_blank">TEAM</a></li>
+                                        <li><a href="./pastevent.html" target="_blank">PAST EVENTS </a></li>
+                                        <li><a href="" target="_blank">CONTACT US </a></li>
+                                  </ul>
+                                </div>
+                              </nav>
+                            
+                              <ul class="sidenav" id="mobile-demo" class="black">
+                                    <li ><a id="home" href="./index.html">HOME</a></li>
+                                    <li><a href="./ted.html">ABOUT</a></li>
+                                    <li><a href="./speaker.html">SPEAKERS</a></li>
+                                    <li><a href="./sponsor.html">PARTNERS</a></li>
+                                    <li><a href="./team.html">TEAM</a></li>
+                                    <li><a href="./pastevent.html">PAST EVENTS </a></li>
+                              </ul>
+                  </header>
+             <br><br><br><br>
+       <img src="C:\Users\Muskan\Desktop\collage.jpg" width="100%">
+
+        <main id="main">
+
+                   <div class="row">
+                    <div class="col-1-of-1">
+                          <center><img src="C:\Users\Muskan\Desktop\ted\play.gif" width="200px" height="200px">
+                          <h3 class="heading-tertiary u-margin-bottom-small red-text">PRESS PLAY</h3>
+                          
+                          <p class="paragraph">
+                           When the world told the caterpillar its life was over, the butterfly objected, “My life has just begun.” 
+― Matshona Dhliwayoooo
+
+Obstacles in the journey of life are inevitable, they often put our lives on a pause but the way we respond to these blocks on our paths, determines our destiny. This year we at TedxShivajiCollege will be exploring the theme “Press Play”, a seemingly simple philosophy which has a much more profound meaning than it seems to carry. It is symbolic of courage, hope and faith. Press Play is a call for action. It means breaking the shackles of self-doubt and inactivity by setting one's life in motion. It is that moment where you decide to not just think about the things you have been trying to do, but you actually go for it and make it happen. It can be achieved by recognizing the immense pool of capabilities that lie within us and the endless opportunities that lie right outside our comfort zone. It can be best described as a 'motor-force' that can bring about creative, innovative and expressive transformations of a 'Paused' self. Through this theme we aim to bring together influential people and impactful ideas from diverse fields who decided not to just think but set out on their amazing journeys by pressing play in their lives. 
+                              
+                          </p></center>
+                        
+                               
+                    </div>
+                 </div>
+                 
+
+                     
+                            <!-- BAR -->
+
+
+                     <!-- <footer><div class="timer" id="bar" style="background-color:#e62b1e;">
+                        <div class="container">
+                            <ul class="white-text">
+                              <li ><span class="white-text" >2</span >EVENTS</li>
+                              <li><span class="white-text">18</span>SPEAKERS</li>
+                              <li><span class="white-text">180+</span>AUDIENCE</li>
+                              <li><span class="white-text">5000+</span>VIEWS</li>
+                            </ul>
+                          </div>
+                     </div></footer> -->
+</body>
+</html>
