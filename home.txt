@@ -133,7 +133,7 @@ var x = setInterval(function() {
                           <center><h3 class="heading-tertiary u-margin-bottom-small red-text">THEME: PRESS PLAY</h3><br>
                           
                           <p class="paragraph">
-                           When the world told the caterpillar its life was over, the butterfly objected, “My life has just begun.” 
+                           When the world told the caterpillar its life was over, the Butterfly objected, “My life has just begun.” 
 ― Matshona Dhliwayo <br><br>
 
 Obstacles in the journey of life are inevitable, they often put our lives on a pause but the way we respond to these blocks on our paths, determines our destiny. This year we at TedxShivajiCollege will be exploring the theme “Press Play”, a seemingly simple philosophy which has a much more profound meaning than it seems to carry. It is symbolic of courage, hope and faith. Press Play is a call for action. It means breaking the shackles of self-doubt and inactivity by setting one's life in motion. It is that moment where you decide to not just think about the things you have been trying to do, but you actually go for it and make it happen. It can be achieved by recognizing the immense pool of capabilities that lie within us and the endless opportunities that lie right outside our comfort zone. It can be best described as a 'motor-force' that can bring about creative, innovative and expressive transformations of a 'Paused' self. Through this theme we aim to bring together influential people and impactful ideas from diverse fields who decided not to just think but set out on their amazing journeys by pressing play in their lives. 
