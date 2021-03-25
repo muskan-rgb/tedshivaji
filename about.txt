@@ -22,8 +22,8 @@
                 <link rel="stylesheet" href="css/icon-font.css">
                 <link rel="stylesheet" href="scss/main.css">
             
-            <link rel="stylesheet" href="C:\Users\Muskan\Desktop\ted\style.css">           
-            <link rel="stylesheet" href="C:\Users\Muskan\Desktop\ted\style2.css"> 
+            <link rel="stylesheet" href="style.css">           
+            <link rel="stylesheet" href="style2.css"> 
 
                 <script>
                         document.addEventListener('DOMContentLoaded', function() {
@@ -52,7 +52,7 @@
                         <div>
                                 <nav class="transparent">
                                         <div class="nav-wrapper">
-                                          <a href="#particles-js" class="brand-logo"><img src="./img/LOGO.png" width="400rem"/></a>
+                                          <a href="#particles-js" class="brand-logo"><img src="LOGO.png" width="400rem"/></a>
                                           <a href="#" data-target="mobile-demo" class="sidenav-trigger black"><i class="material-icons">menu</i></a>
                                           <ul class="right hide-on-med-and-down">
                                                 <li ><a id="home" class="red-text" href="./index.html">HOME</a></li>
