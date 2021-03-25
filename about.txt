@@ -106,13 +106,13 @@
         
              <br><br><br><br>
 
-        <main id="main">
-
+        <main id="main" style="color:white; background-color:black;">
+<br><br>
                    <div class="row">
                     <div class="col-1-of-1">
                           <h3 class="heading-tertiary u-margin-bottom-small red-text">TED</h3>
                           <p class="paragraph">
-                            <p>TED is building a clearinghouse of free knowledge from the world's most inspired thinkers — and a community of curious souls to engage with ideas and each other, both online and at TED and TEDx events around the world, all year long.
+                            <p> TED is building a clearinghouse of free knowledge from the world's most inspired thinkers — and a community of curious souls to engage with ideas and each other, both online and at TED and TEDx events around the world, all year long.
                               </p>
                              <p> What started as a small idea grew out to change the world for the good. TED at its core believes that the stem of every great idea is an inspiration and TED tries to spark and ignite this inspiration by sharing heart touching, inspiring and motivational stories. Over the decades of inspiring budding minds, TED has achieved recognition throughout the world.
                               </p> 
@@ -132,11 +132,10 @@
                          <div>
                                  <h3 class="heading-tertiary u-margin-bottom-small red-text "> TEDxShivajiCollege</h3>
                                  <p class="paragraph ">
-                                   <p>Shivaji college takes another step to improving itself and growing to become more vibrant in creativity and excellence with initiatives by students under the guidance of professors who are there to support them on every step. As a learning opportunity, this event aims to create new thoughts and paths for the future of this nation. We hope to provoke the zeal and inspiration that will cause a change in our lives to excel and improve.
+                                   <p>TEDxShivajicollege is a community of dedicated and like minded students and professors aiming to achieve the spirit of TED’s mission of discovering news ideas worth spreading. The community believes in a healthy growth pattern to serve its ideals and paradigms   Which are directed towards feeding the curiosity of young minds . Its focus over the course of its active years has been a subject of consistency, which is promoting the global endeavour of TED by organising 'independent' events and giving stage to prominent and celebrated thinkers and individuals from across all the spectrums of professions or to anyone who can make a difference.
 
-                                    </p>
-                                      <p>Like last year, TEDxShivajiCollege aims to bring the best in the community, to their people and give them the spotlight they have earned to share their story with us. We strongly believe that the right change in the thinking can only be brought on by the growth of everyone together, learning from each other.</p>
-                                 </p>
+</p>
+                                      
                          </div>     
                      </div>
                      <div class="col-1-of-1 ">
@@ -145,14 +144,9 @@
 
                                   </h3>
                                 <p class="paragraph ">
-                                  <p>Shivaji College is a premier institution in West Delhi, accredited with grade 'A' by NAAC. It was ranked as one of the top 10 science colleges of the country in a survey conducted by India Today in 2017.
-                                   </p>
-                                     <p>Shivaji College functions under the trusteeship of the Government of Delhi. In spite of being located in the thriving part of the city, Shivaji College campus is extremely verdurous. It has a maze of tall trees, lush green lawns and pruned hedges.
-
-                                      </p>
-                                      <p>Shivaji College believes in and promotes the ideals of gender equality and community service.</p>
-                                      <p>Shivaji College has come a long way from its humble beginnings and moderate facilities to a campus equipped with impressive amenities.</p>
-                        <br><br></div>     
+                                  <p>Shivaji College is one of the foremost institutions of the Delhi University. It was established in 1961 by Hon'ble Dr Panjabrao Deshmukh, Union Minister for Agriculture and a social activist. 
+"Transform One Life, Transform the Nation" is the vision of Shivaji College. The college strives to attain excellence in all aspects and aspires to become a premier institution. It envisions itself as a seat of not only academic learning but also of holistic development. 
+It was ranked as one of the top 10 science colleges of the country in a survey conducted by India Today in 2017 and is also awarded with financial grant under the prestigious star college scheme of DBT, Govt. of India. </p><br><br></div>     
                     </div>
                  </div>
                  
@@ -161,15 +155,20 @@
                             <!-- BAR -->
 
 
-                     <!-- <footer><div class="timer" id="bar" style="background-color:#e62b1e;">
-                        <div class="container">
+                      <div class="timer" style="word-spacing:10rem; height:170px; background-color:#e62b1e;">
+                        <center><div>
                             <ul class="white-text">
                               <li ><span class="white-text" >2</span >EVENTS</li>
                               <li><span class="white-text">18</span>SPEAKERS</li>
                               <li><span class="white-text">180+</span>AUDIENCE</li>
                               <li><span class="white-text">5000+</span>VIEWS</li>
                             </ul>
-                          </div>
-                     </div></footer> -->
+                          </div></center>
+                     </div>
+                    <div class="footer" style="background-color: black;
+   color: white;"><center>
+                       © 2021 TEDxShivajiCollege. This independent TEDx event is operated under license from TED.
+                                           </center></div>
+
 </body>
 </html>
